@@ -1,2 +1,2 @@
-# zayaanb.github.io
-Zayaan Bhanwadia's Portfolio Website
+# home
+Zayaan Bhanwadia's grade 9 ICS web design project about guitars.
